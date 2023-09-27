@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "es6"
+git push
